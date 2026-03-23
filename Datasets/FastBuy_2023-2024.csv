@@ -1,0 +1,489 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,PurchaseHistory,Location,PurchaseDate,PreferredDevice,PaymentMethod,Segment
+CUST00358,25,F,41.288 K,79,Sports,New York,01/09/2023,Tablet,Credit Card,Budget
+CUST00998,62,Female,75922,27,Home Decor,Los Angeles,02/09/2023,Mobile,Credit Card,Budget
+CUST00466,21,Male,108397,22,Fashion,Chicago,02/09/2023,Tablet,Credit Card,Budget
+CUST00577,48,Male,123674,91,Home Decor,New York,02/09/2023,Mobile,Credit Card,Premium
+CUST00210,41,Male,56444,42,Electronics,New York,04/09/2023,Tablet,Debit Card,Budget
+CUST00105,26,Female,147706,13,Sports,Seattle,04/09/2023,Desktop,Credit Card,Budget
+CUST00942,22,Male,24255,81,Groceries,Boston,04/09/2023,Desktop,PayPal,Budget
+CUST00321,52,Female,82768,89,Sports,Los Angeles,07/09/2023,Mobile,PayPal,Standard
+CUST00156,30,Male,121148,63,Home Decor,Seattle,07/09/2023,Tablet,Credit Card,Standard
+CUST00911,22,Male,80946,68,Fashion,Chicago,07/09/2023,Desktop,Debit Card,Standard
+CUST00402,57,Male,124540,41,Groceries,Boston,08/09/2023,Mobile,Debit Card,Standard
+CUST00568,18,Male,29200,45,Groceries,Miami,09/09/2023,Desktop,Gift Card,Budget
+CUST00411,44,Male,132340,81,Fashion,Chicago,09/09/2023,Mobile,Debit Card,Premium
+CUST00159,56,Male,43411,99,Books,Chicago,09/09/2023,Desktop,Debit Card,Budget
+CUST00673,35,Male,121477,27,Home Decor,Los Angeles,10/09/2023,Desktop,Debit Card,Budget
+CUST00206,50,Female,41563,29,Home Decor,Boston,11/09/2023,Desktop,Debit Card,Budget
+CUST00879,28,Male,36014,19,Groceries,Miami,11/09/2023,Desktop,PayPal,Budget
+CUST00438,31,Female,46017,4,Fashion,Miami,13/09/2023,Mobile,Debit Card,Budget
+CUST00077,61,Female,32987,33,Home Decor,Houston,13/09/2023,Mobile,Debit Card,Budget
+CUST00946,39,Male,54503,65,Fashion,Los Angeles,13/09/2023,Desktop,Credit Card,Budget
+CUST00653,52,Female,89569,59,Groceries,Chicago,14/09/2023,Tablet,Debit Card,Standard
+CUST00217,66,Male,50707,2,Sports,Boston,14/09/2023,Mobile,Debit Card,Budget
+CUST00763,27,Male,28906,61,Sports,Miami,15/09/2023,Mobile,Gift Card,Budget
+CUST00286,47,Male,94319,79,Fashion,Boston,15/09/2023,Desktop,Gift Card,Standard
+CUST00677,27,Female,24114,26,Books,Los Angeles,15/09/2023,Mobile,Debit Card,Budget
+CUST00451,39,Male,118833,58,Sports,Chicago,16/09/2023,Tablet,Debit Card,Standard
+CUST00100,32,Male,92595,60,Groceries,Seattle,18/09/2023,Tablet,Credit Card,Standard
+CUST00709,36,Male,116546,47,Home Decor,Chicago,18/09/2023,Mobile,PayPal,Standard
+CUST00835,40,Male,57384,63,Fashion,New York,19/09/2023,Desktop,PayPal,Budget
+CUST00526,43,Female,102495,5,Fashion,Miami,19/09/2023,Mobile,PayPal,Budget
+CUST00511,54,Female,96367,51,Books,Boston,19/09/2023,Tablet,PayPal,Standard
+CUST00507,29,Female,72233,77,Books,Miami,19/09/2023,Tablet,Gift Card,Standard
+CUST00538,51,Female,121872,46,Books,New York,20/09/2023,Desktop,Gift Card,Standard
+CUST00103,42,Male,135953,96,Fashion,Los Angeles,20/09/2023,Mobile,PayPal,Premium
+CUST00040,69,Female,73947,15,Groceries,Los Angeles,20/09/2023,Tablet,Credit Card,Budget
+CUST00377,47,Male,90316,23,Electronics,Boston,21/09/2023,Tablet,Debit Card,Budget
+CUST00444,51,Female,37778,71,Books,Seattle,21/09/2023,Desktop,Credit Card,Budget
+CUST00161,69,Female,80545,27,Books,New York,22/09/2023,Mobile,PayPal,Budget
+CUST00712,44,Male,83449,82,Books,New York,25/09/2023,Mobile,Gift Card,Standard
+CUST00932,20,Male,145926,48,Groceries,New York,26/09/2023,Mobile,PayPal,Standard
+CUST00563,68,Female,96260,89,Electronics,New York,27/09/2023,Tablet,Credit Card,Standard
+CUST00656,69,Male,126437,64,Sports,Seattle,27/09/2023,Desktop,PayPal,Standard
+CUST00867,22,Female,84174,25,Sports,Miami,27/09/2023,Mobile,Gift Card,Budget
+CUST00097,62,Male,25084,79,Home Decor,New York,28/09/2023,Mobile,Credit Card,Budget
+CUST00082,48,Female,21007,80,Fashion,Los Angeles,28/09/2023,Tablet,Gift Card,Budget
+CUST00263,37,Male,146446,52,Books,Chicago,28/09/2023,Mobile,Debit Card,Standard
+CUST00694,36,Male,23726,19,Books,Los Angeles,28/09/2023,Desktop,PayPal,Budget
+CUST00586,25,Male,140030,15,Fashion,Seattle,30/09/2023,Tablet,Gift Card,Budget
+CUST00164,47,Female,72307,14,Electronics,New York,30/09/2023,Tablet,Credit Card,Budget
+CUST00117,50,Male,134682,2,Fashion,Houston,02/10/2023,Desktop,Credit Card,Budget
+CUST00046,26,Female,88344,38,Groceries,Chicago,02/10/2023,Tablet,Gift Card,Budget
+CUST00348,29,Male,66163,22,Fashion,Boston,04/10/2023,Mobile,Debit Card,Budget
+CUST00595,21,Female,59062,58,Sports,Boston,05/10/2023,Tablet,PayPal,Budget
+CUST00635,30,Male,70138,74,Books,Miami,05/10/2023,Tablet,Gift Card,Standard
+CUST00604,27,Female,24470,49,Fashion,Miami,06/10/2023,Tablet,Gift Card,Budget
+CUST00674,64,Female,49165,40,Sports,Chicago,07/10/2023,Mobile,PayPal,Budget
+CUST00549,41,Male,54707,24,Sports,Miami,09/10/2023,Tablet,Credit Card,Budget
+CUST00327,35,Female,21925,32,Fashion,Houston,09/10/2023,Desktop,PayPal,Budget
+CUST00550,33,Male,40337,30,Sports,Los Angeles,10/10/2023,Desktop,Credit Card,Budget
+CUST00509,33,Female,53397,70,Home Decor,New York,10/10/2023,Desktop,Gift Card,Budget
+CUST00737,62,Male,31556,12,Electronics,Chicago,11/10/2023,Desktop,Gift Card,Budget
+CUST00094,41,Female,120686,98,Groceries,Boston,11/10/2023,Desktop,Gift Card,Premium
+CUST00626,52,Male,75409,39,Groceries,New York,13/10/2023,Desktop,Debit Card,Budget
+CUST00372,52,Female,46745,97,Groceries,New York,13/10/2023,Tablet,PayPal,Budget
+CUST00295,19,Male,81681,62,Electronics,Miami,14/10/2023,Tablet,Credit Card,Standard
+CUST00352,63,Female,47961,29,Sports,New York,15/10/2023,Desktop,Credit Card,Budget
+CUST00426,67,Male,136400,20,Groceries,Los Angeles,16/10/2023,Tablet,Credit Card,Budget
+CUST00723,45,Male,113977,27,Fashion,Seattle,16/10/2023,Desktop,PayPal,Budget
+CUST00420,65,Female,45963,70,Electronics,Miami,18/10/2023,Tablet,Gift Card,Budget
+CUST00602,38,Female,63753,37,Fashion,Seattle,19/10/2023,Tablet,Gift Card,Budget
+CUST00137,44,Male,132718,99,Sports,Seattle,21/10/2023,Desktop,Gift Card,Premium
+CUST00062,64,Female,77932,21,Books,Miami,21/10/2023,Tablet,Debit Card,Budget
+CUST00042,54,Male,83620,60,Home Decor,Boston,21/10/2023,Mobile,PayPal,Standard
+CUST00387,63,Male,95717,5,Sports,Boston,22/10/2023,Desktop,Debit Card,Budget
+CUST00319,57,Female,29078,59,Home Decor,Seattle,22/10/2023,Tablet,PayPal,Budget
+CUST00179,19,Female,48602,5,Fashion,Chicago,23/10/2023,Desktop,Credit Card,Budget
+CUST00195,44,Female,46431,21,Electronics,New York,23/10/2023,Desktop,Gift Card,Budget
+CUST00093,64,Female,118875,21,Groceries,Chicago,24/10/2023,Desktop,Debit Card,Budget
+CUST00456,23,Male,47490,30,Sports,Los Angeles,24/10/2023,Desktop,PayPal,Budget
+CUST00140,52,Female,47082,28,Home Decor,Miami,25/10/2023,Desktop,Debit Card,Budget
+CUST00116,52,Female,96919,43,Sports,Los Angeles,25/10/2023,Mobile,Credit Card,Standard
+CUST00527,65,Male,141717,70,Sports,Houston,25/10/2023,Tablet,Debit Card,Standard
+CUST00326,46,M,69786,44,Electronics,Boston,26/10/2023,Tablet,Gift Card,Standard
+CUST00806,50,Male,109022,11,Books,Miami,27/10/2023,Desktop,Gift Card,Budget
+CUST00192,56,Male,96961,60,Groceries,Los Angeles,27/10/2023,Desktop,Debit Card,Standard
+CUST00379,63,Male,48380,30,Fashion,Boston,28/10/2023,Desktop,Credit Card,Budget
+CUST00472,64,Male,145932,64,Books,New York,29/10/2023,Mobile,Credit Card,Standard
+CUST00125,25,Male,97475,10,Electronics,New York,29/10/2023,Tablet,Debit Card,Budget
+CUST00011,28,Male,21591,32,Sports,Chicago,30/10/2023,Desktop,Gift Card,Budget
+CUST00950,22,Male,126283,47,Groceries,Miami,30/10/2023,Desktop,Gift Card,Standard
+CUST00157,68,Female,95932,63,Books,Los Angeles,30/10/2023,Mobile,Debit Card,Standard
+CUST00520,63,Female,133939,37,Electronics,Chicago,31/10/2023,Tablet,Credit Card,Budget
+CUST00193,50,Male,21980,11,Home Decor,Los Angeles,31/10/2023,Desktop,PayPal,Budget
+CUST00129,65,Male,120732,50,Sports,Miami,31/10/2023,Tablet,Debit Card,Standard
+CUST00246,34,Male,25109,8,Electronics,Boston,31/10/2023,Desktop,PayPal,Budget
+CUST00067,67,Female,107263,35,Sports,Boston,31/10/2023,Desktop,PayPal,Budget
+CUST00798,64,Male,119590,58,Books,Chicago,01/11/2023,Mobile,PayPal,Standard
+CUST00621,29,Male,123542,98,Home Decor,Miami,01/11/2023,Desktop,Credit Card,Premium
+CUST00252,23,Male,143274,51,Books,New York,01/11/2023,Desktop,Gift Card,Standard
+CUST00850,21,Female,140387,97,Sports,Seattle,03/11/2023,Tablet,Credit Card,Premium
+CUST00772,45,Male,66413,11,Groceries,Houston,03/11/2023,Desktop,Credit Card,Budget
+CUST00392,38,Male,134015,96,Sports,Houston,03/11/2023,Mobile,Gift Card,Premium
+CUST00339,38,Male,148859,13,Fashion,Seattle,07/11/2023,Mobile,Credit Card,Budget
+CUST00706,53,Male,130896,72,Books,Seattle,07/11/2023,Tablet,PayPal,Premium
+CUST00251,51,Male,102503,1,Electronics,Los Angeles,08/11/2023,Mobile,PayPal,Budget
+CUST00642,29,Female,51890,74,Fashion,Chicago,08/11/2023,Desktop,Gift Card,Budget
+CUST00873,40,Male,37.014 K,22,Electronics,Seattle,09/11/2023,Mobile,Debit Card,Budget
+CUST00906,34,Female,75754,99,Electronics,Boston,09/11/2023,Mobile,Credit Card,Standard
+CUST00918,65,Male,59532,55,Groceries,Boston,09/11/2023,Mobile,Gift Card,Budget
+CUST00498,57,Male,41927,75,Groceries,Los Angeles,12/11/2023,Desktop,Credit Card,Budget
+CUST00413,19,Male,79321,14,Electronics,Seattle,12/11/2023,Mobile,Gift Card,Budget
+CUST00243,49,Female,94744,44,Groceries,Los Angeles,13/11/2023,Mobile,PayPal,Standard
+CUST00155,59,Male,61846,50,Books,Chicago,14/11/2023,Desktop,Credit Card,Standard
+CUST00273,58,Female,72648,96,Home Decor,Los Angeles,15/11/2023,Mobile,Debit Card,Standard
+CUST00615,56,Female,144398,86,Sports,Houston,16/11/2023,Desktop,Credit Card,Premium
+CUST00237,36,Female,99083,87,Fashion,Houston,17/11/2023,Mobile,PayPal,Standard
+CUST00259,23,Female,46589,21,Sports,Houston,17/11/2023,Mobile,PayPal,Budget
+CUST00464,22,Female,127435,63,Groceries,Houston,18/11/2023,Tablet,PayPal,Standard
+CUST00044,24,Female,69708,49,Groceries,Los Angeles,18/11/2023,Tablet,PayPal,Standard
+CUST00134,61,Female,64064,87,Books,Boston,19/11/2023,Tablet,Gift Card,Standard
+CUST00620,54,Female,67414,61,Electronics,Boston,19/11/2023,Mobile,PayPal,Standard
+CUST00680,55,Male,93297,25,Books,Houston,21/11/2023,Desktop,Gift Card,Budget
+CUST00745,54,Male,140133,13,Groceries,Miami,22/11/2023,Mobile,Credit Card,Budget
+CUST00041,20,Male,42534,86,Books,Seattle,24/11/2023,Mobile,Debit Card,Budget
+CUST00279,18,Male,95304,92,Books,Los Angeles,25/11/2023,Desktop,Credit Card,Standard
+CUST00934,20,Male,136492,67,Books,New York,25/11/2023,Desktop,Gift Card,Standard
+CUST00860,43,Male,123314,72,Groceries,Miami,25/11/2023,Desktop,PayPal,Premium
+CUST00515,45,Female,96619,46,Home Decor,Los Angeles,26/11/2023,Tablet,PayPal,Standard
+CUST00342,25,Male,33629,46,Groceries,Chicago,29/11/2023,Mobile,Debit Card,Budget
+CUST00001,56,Male,65648,5,Home Decor,Miami,30/11/2023,Tablet,Credit Card,Budget
+CUST00181,62,Female,68901,13,Books,New York,30/11/2023,Desktop,Gift Card,Budget
+CUST00367,50,Male,130091,77,Electronics,Houston,01/12/2023,Mobile,PayPal,Premium
+CUST00702,24,F,55643,92,Sports,Seattle,01/12/2023,Mobile,Gift Card,Budget
+CUST00218,66,Male,59110,60,Fashion,Seattle,03/12/2023,Tablet,Debit Card,Budget
+CUST00974,66,Female,68604,4,Groceries,Miami,03/12/2023,Mobile,PayPal,Budget
+CUST00554,49,Male,67614,35,Groceries,Chicago,03/12/2023,Tablet,Debit Card,Budget
+CUST00124,26,Female,41195,34,Electronics,Chicago,04/12/2023,Tablet,Gift Card,Budget
+CUST00505,46,Female,124734,50,Fashion,Miami,05/12/2023,Tablet,PayPal,Standard
+CUST00800,19,Male,64139,57,Sports,Boston,06/12/2023,Desktop,PayPal,Standard
+CUST00672,28,Female,134044,14,Sports,Boston,06/12/2023,Mobile,Credit Card,Budget
+CUST00529,56,Male,127803,4,Groceries,New York,06/12/2023,Mobile,PayPal,Budget
+CUST00133,52,Female,143786,73,Books,Miami,07/12/2023,Mobile,Gift Card,Premium
+CUST00059,24,Female,38787,14,Fashion,Houston,07/12/2023,Desktop,Gift Card,Budget
+CUST00930,21,Female,123493,21,Home Decor,Los Angeles,11/12/2023,Tablet,Credit Card,Budget
+CUST00272,69,Male,40581,94,Groceries,Los Angeles,12/12/2023,Tablet,PayPal,Budget
+CUST00304,52,Male,108652,32,Electronics,Los Angeles,13/12/2023,Mobile,Debit Card,Budget
+CUST00765,33,Female,130350,93,Groceries,Houston,13/12/2023,Desktop,Debit Card,Premium
+CUST00623,30,Male,145354,58,Fashion,Boston,17/12/2023,Mobile,Credit Card,Standard
+CUST00212,49,Male,28711,64,Groceries,Chicago,18/12/2023,Tablet,Gift Card,Budget
+CUST00895,50,Female,132418,40,Books,New York,19/12/2023,Mobile,Debit Card,Budget
+CUST00838,27,Female,147959,57,Fashion,Boston,20/12/2023,Desktop,Gift Card,Standard
+CUST00291,43,Female,55488,68,Sports,Miami,20/12/2023,Desktop,Credit Card,Budget
+CUST00308,20,Male,72326,32,Fashion,Seattle,21/12/2023,Mobile,Credit Card,Budget
+CUST00088,57,Male,107272,6,Fashion,New York,21/12/2023,Mobile,PayPal,Budget
+CUST00409,40,Female,146768,54,Home Decor,Los Angeles,21/12/2023,Tablet,PayPal,Standard
+CUST00480,47,Female,90135,18,Electronics,Los Angeles,21/12/2023,Mobile,Debit Card,Budget
+CUST00815,42,Female,127971,66,Books,Boston,22/12/2023,Desktop,Gift Card,Standard
+CUST00746,53,Female,101709,34,Fashion,Houston,22/12/2023,Tablet,PayPal,Budget
+CUST00513,46,Male,91260,42,Groceries,Boston,24/12/2023,Desktop,Debit Card,Standard
+CUST00949,18,Female,145941,87,Groceries,Los Angeles,24/12/2023,Mobile,PayPal,Premium
+CUST00722,37,Male,42612,3,Fashion,Los Angeles,24/12/2023,Desktop,Gift Card,Budget
+CUST00607,41,Female,127860,85,Groceries,Houston,25/12/2023,Mobile,Credit Card,Premium
+CUST00078,51,Male,57311,36,Groceries,Chicago,25/12/2023,Mobile,Gift Card,Budget
+CUST00495,49,Female,139044,70,Electronics,Boston,25/12/2023,Desktop,Gift Card,Standard
+CUST00678,61,Male,84965,63,Sports,Boston,28/12/2023,Desktop,Gift Card,Standard
+CUST00310,41,Female,101061,11,Fashion,Los Angeles,29/12/2023,Mobile,PayPal,Budget
+CUST00841,34,Female,95388,14,Groceries,Boston,02/01/2024,Desktop,Debit Card,Budget
+CUST00789,65,Male,128177,33,Books,Seattle,02/01/2024,Mobile,Gift Card,Budget
+CUST00253,39,Male,49759,24,Fashion,New York,02/01/2024,Mobile,Debit Card,Budget
+CUST00173,30,Male,117883,79,Electronics,Miami,02/01/2024,Mobile,PayPal,Premium
+CUST00492,18,Male,87649,47,Electronics,Miami,03/01/2024,Desktop,PayPal,Standard
+CUST00959,62,Female,39201,26,Sports,Los Angeles,03/01/2024,Desktop,PayPal,Budget
+CUST00289,24,Male,116347,49,Electronics,Seattle,04/01/2024,Tablet,Credit Card,Standard
+CUST00537,53,Female,112464,54,Books,Miami,04/01/2024,Tablet,Debit Card,Standard
+CUST00559,67,Female,100896,80,Sports,Miami,07/01/2024,Tablet,Debit Card,Premium
+CUST00575,30,Female,55057,50,Books,Boston,07/01/2024,Mobile,PayPal,Budget
+CUST00530,53,Male,105112,39,Sports,New York,08/01/2024,Tablet,Gift Card,Budget
+CUST00641,36,Female,121376,66,Sports,New York,08/01/2024,Mobile,PayPal,Standard
+CUST00045,38,Female,94553,42,Home Decor,Boston,08/01/2024,Mobile,Gift Card,Standard
+CUST00209,61,Male,25776,21,Groceries,Los Angeles,10/01/2024,Tablet,Gift Card,Budget
+CUST00883,51,Female,43711,45,Home Decor,Miami,12/01/2024,Mobile,Credit Card,Budget
+CUST00969,34,Male,64843,4,Books,Chicago,12/01/2024,Desktop,Credit Card,Budget
+CUST00057,45,Female,122302,7,Home Decor,Boston,13/01/2024,Tablet,Gift Card,Budget
+CUST00968,65,Male,20661,51,Groceries,Los Angeles,13/01/2024,Tablet,PayPal,Budget
+CUST00075,35,Male,51966,25,Fashion,Houston,14/01/2024,Tablet,PayPal,Budget
+CUST00197,30,Female,127288,55,Electronics,Chicago,14/01/2024,Tablet,Debit Card,Standard
+CUST00135,57,Female,27813,83,Sports,Miami,14/01/2024,Tablet,Debit Card,Budget
+CUST00220,29,Male,81788,29,Fashion,Houston,15/01/2024,Tablet,Debit Card,Budget
+CUST00345,34,Male,120734,96,Home Decor,Los Angeles,15/01/2024,Mobile,Gift Card,Premium
+CUST00734,55,Male,41636,19,Sports,Seattle,16/01/2024,Mobile,Gift Card,Budget
+CUST00330,19,Male,137832,21,Groceries,New York,18/01/2024,Mobile,Credit Card,Budget
+CUST00961,26,Female,78576,93,Fashion,Miami,18/01/2024,Desktop,PayPal,Standard
+CUST00230,19,Female,20526,59,Groceries,New York,19/01/2024,Desktop,PayPal,Budget
+CUST00652,22,Male,56059,60,Electronics,Los Angeles,19/01/2024,Desktop,Debit Card,Budget
+CUST00500,18,Male,81367,90,Sports,Los Angeles,20/01/2024,Tablet,Credit Card,Standard
+CUST00691,46,Female,135142,89,Groceries,Seattle,21/01/2024,Tablet,Credit Card,Premium
+CUST00473,52,Female,24648,19,Home Decor,Miami,22/01/2024,Mobile,PayPal,Budget
+CUST00639,29,Female,50659,22,Groceries,Los Angeles,24/01/2024,Desktop,Gift Card,Budget
+CUST00897,32,Female,85108,30,Fashion,Los Angeles,25/01/2024,Tablet,Credit Card,Budget
+CUST00022,47,Male,137071,85,Home Decor,Los Angeles,25/01/2024,Desktop,Debit Card,Premium
+CUST00795,35,Female,146296,51,Fashion,Houston,26/01/2024,Desktop,Credit Card,Standard
+CUST00665,31,Male,138516,68,Books,Miami,26/01/2024,Mobile,Credit Card,Standard
+CUST00859,56,Male,85681,14,Groceries,Miami,26/01/2024,Mobile,Debit Card,Budget
+CUST00165,54,Female,23093,71,Sports,Miami,27/01/2024,Mobile,Credit Card,Budget
+CUST00751,64,Female,78348,27,Books,Los Angeles,27/01/2024,Desktop,Debit Card,Budget
+CUST00542,36,Male,136891,31,Home Decor,Boston,27/01/2024,Mobile,Credit Card,Budget
+CUST00629,34,Female,44089,17,Groceries,Houston,28/01/2024,Tablet,Credit Card,Budget
+CUST00232,40,Male,67837,72,Groceries,Chicago,28/01/2024,Mobile,Debit Card,Standard
+CUST00848,62,Female,147834,79,Electronics,Boston,28/01/2024,Desktop,Credit Card,Premium
+CUST00465,56,Male,86061,83,Sports,Boston,29/01/2024,Mobile,PayPal,Standard
+CUST00845,63,Male,139503,9,Sports,Houston,30/01/2024,Desktop,Credit Card,Budget
+CUST00104,24,Male,27491,92,Groceries,Los Angeles,31/01/2024,Tablet,Gift Card,Budget
+CUST00912,51,Female,58467,68,Fashion,Miami,31/01/2024,Tablet,Gift Card,Budget
+CUST00240,43,Male,28712,83,Electronics,Seattle,01/02/2024,Desktop,Credit Card,Budget
+CUST00701,34,Male,97714,24,Electronics,Boston,02/02/2024,Tablet,Credit Card,Budget
+CUST00519,47,Male,26276,64,Home Decor,Seattle,02/02/2024,Mobile,Gift Card,Budget
+CUST00569,50,Female,84178,56,Home Decor,Los Angeles,03/02/2024,Tablet,PayPal,Standard
+CUST00385,46,Female,109899,72,Home Decor,Los Angeles,04/02/2024,Tablet,PayPal,Premium
+CUST00494,51,Female,144132,15,Electronics,Seattle,05/02/2024,Mobile,Gift Card,Budget
+CUST00833,55,Female,114088,38,Groceries,Seattle,05/02/2024,Mobile,Credit Card,Budget
+CUST00571,27,Female,45611,82,Sports,Miami,05/02/2024,Mobile,PayPal,Budget
+CUST00985,41,Male,145839,1,Groceries,Boston,06/02/2024,Tablet,Credit Card,Budget
+CUST00963,64,Male,145281,21,Electronics,Houston,08/02/2024,Desktop,Gift Card,Budget
+CUST00323,42,Female,91626,30,Electronics,Houston,09/02/2024,Tablet,PayPal,Budget
+CUST00063,52,Female,112124,35,Groceries,Boston,10/02/2024,Mobile,PayPal,Budget
+CUST00366,64,Male,30326,44,Fashion,Seattle,10/02/2024,Tablet,Debit Card,Budget
+CUST00418,26,Female,98339,16,Sports,Boston,10/02/2024,Tablet,PayPal,Budget
+CUST00655,42,Male,37087,99,Home Decor,Miami,16/02/2024,Desktop,PayPal,Budget
+CUST00081,31,Male,147650,65,Fashion,Los Angeles,16/02/2024,Mobile,PayPal,Standard
+CUST00460,50,Male,43279,60,Fashion,Houston,17/02/2024,Mobile,Gift Card,Budget
+CUST00619,49,Female,68320,61,Sports,Seattle,17/02/2024,Tablet,Gift Card,Standard
+CUST00539,69,Female,29847,60,Fashion,Miami,18/02/2024,Desktop,Gift Card,Budget
+CUST00448,39,Male,148267,3,Books,New York,20/02/2024,Desktop,Gift Card,Budget
+CUST00425,52,Male,134225,4,Books,Boston,20/02/2024,Desktop,Debit Card,Budget
+CUST00250,69,Male,74615,43,Fashion,Boston,20/02/2024,Desktop,Debit Card,Standard
+CUST00747,52,Male,79889,4,Sports,Chicago,22/02/2024,Tablet,PayPal,Budget
+CUST00696,65,Female,47723,51,Electronics,Seattle,22/02/2024,Tablet,Credit Card,Budget
+CUST00267,20,Female,26154,28,Fashion,Chicago,22/02/2024,Tablet,Debit Card,Budget
+CUST00679,34,Female,56321,66,Home Decor,Boston,22/02/2024,Tablet,Gift Card,Budget
+CUST00351,39,Female,31653,92,Home Decor,New York,23/02/2024,Mobile,Debit Card,Budget
+CUST00572,60,Male,139273,57,Home Decor,Boston,23/02/2024,Mobile,Credit Card,Standard
+CUST00875,54,Male,69104,83,Groceries,Houston,24/02/2024,Mobile,Debit Card,Standard
+CUST00877,31,Female,97231,3,Electronics,New York,24/02/2024,Tablet,Credit Card,Budget
+CUST00280,28,Male,63408,81,Electronics,Chicago,25/02/2024,Desktop,Debit Card,Standard
+CUST00971,53,Male,80963,71,Groceries,Houston,25/02/2024,Mobile,Debit Card,Standard
+CUST00447,40,Female,106652,14,Groceries,New York,26/02/2024,Mobile,Debit Card,Budget
+CUST00792,63,Female,63596,52,Home Decor,Houston,28/02/2024,Mobile,Gift Card,Standard
+CUST00049,21,Female,67638,35,Electronics,Miami,28/02/2024,Desktop,Debit Card,Budget
+CUST00973,25,Female,62828,28,Home Decor,Los Angeles,28/02/2024,Mobile,Debit Card,Budget
+CUST00733,50,Female,52779,70,Fashion,Boston,29/02/2024,Tablet,Debit Card,Budget
+CUST00976,69,Male,88910,76,Books,Chicago,01/03/2024,Mobile,Gift Card,Standard
+CUST00315,66,Male,101905,18,Sports,Miami,01/03/2024,Tablet,Debit Card,Budget
+CUST00726,56,Male,148449,92,Home Decor,Los Angeles,01/03/2024,Mobile,PayPal,Premium
+CUST00708,48,Female,113680,9,Sports,Miami,02/03/2024,Desktop,Credit Card,Budget
+CUST00274,50,Female,50087,8,Home Decor,Los Angeles,03/03/2024,Desktop,Credit Card,Budget
+CUST00443,45,Female,49426,17,Groceries,Seattle,04/03/2024,Tablet,Gift Card,Budget
+CUST00546,62,Male,20619,36,Groceries,Miami,05/03/2024,Desktop,PayPal,Budget
+CUST00803,67,Male,92588,22,Home Decor,Chicago,06/03/2024,Tablet,Debit Card,Budget
+CUST00191,42,Male,39982,99,Fashion,Houston,06/03/2024,Mobile,Debit Card,Budget
+CUST00886,51,Male,94696,63,Fashion,Chicago,06/03/2024,Mobile,Gift Card,Standard
+CUST00393,49,Male,143191,64,Home Decor,Houston,07/03/2024,Tablet,Credit Card,Standard
+CUST00797,22,Female,138218,82,Books,New York,08/03/2024,Desktop,Debit Card,Premium
+CUST00606,26,Female,30225,89,Groceries,Los Angeles,09/03/2024,Desktop,Debit Card,Budget
+CUST00780,58,Male,62652,3,Sports,Miami,10/03/2024,Mobile,PayPal,Budget
+CUST00834,20,Female,72249,15,Groceries,Boston,10/03/2024,Desktop,Gift Card,Budget
+CUST00084,32,Female,96.242 K,52,Electronics,Chicago,11/03/2024,Desktop,Debit Card,Standard
+CUST00332,33,Male,46015,32,Groceries,Los Angeles,12/03/2024,Desktop,Debit Card,Budget
+CUST00669,40,Male,59882,79,Electronics,New York,12/03/2024,Desktop,PayPal,Budget
+CUST00591,51,Male,29110,26,Books,New York,12/03/2024,Tablet,Debit Card,Budget
+CUST00675,29,Male,87203,58,Electronics,Seattle,12/03/2024,Mobile,PayPal,Standard
+CUST00467,23,Male,69153,24,Books,Houston,12/03/2024,Tablet,Gift Card,Budget
+CUST00440,68,Male,144677,57,Electronics,Seattle,12/03/2024,Mobile,Credit Card,Standard
+CUST00900,68,Female,144457,33,Home Decor,New York,13/03/2024,Tablet,Credit Card,Budget
+CUST00610,52,Female,128295,41,Home Decor,Chicago,15/03/2024,Tablet,Gift Card,Standard
+CUST00175,24,Female,73268,10,Electronics,Miami,16/03/2024,Desktop,Debit Card,Budget
+CUST00491,18,Male,142907,20,Books,Boston,18/03/2024,Mobile,PayPal,Budget
+CUST00662,62,Male,131279,21,Groceries,Los Angeles,18/03/2024,Tablet,PayPal,Budget
+CUST00510,68,Female,102189,81,Books,Los Angeles,19/03/2024,Mobile,Gift Card,Premium
+CUST00282,42,Female,145816,8,Sports,Boston,20/03/2024,Mobile,Gift Card,Budget
+CUST00054,43,Male,97236,6,Sports,Chicago,20/03/2024,Desktop,PayPal,Budget
+CUST00368,22,Female,145836,22,Books,Miami,20/03/2024,Mobile,Gift Card,Budget
+CUST00940,36,Male,88011,68,Groceries,Miami,20/03/2024,Tablet,Gift Card,Standard
+CUST00880,68,Male,112578,73,Fashion,Houston,26/03/2024,Desktop,Credit Card,Premium
+CUST00400,48,Male,114242,27,Groceries,Miami,26/03/2024,Tablet,Gift Card,Budget
+CUST00121,58,Female,57567,31,Electronics,Miami,26/03/2024,Tablet,Gift Card,Budget
+CUST00843,31,Male,145511,17,Sports,Miami,26/03/2024,Mobile,Credit Card,Budget
+CUST00229,19,Male,142413,8,Sports,Chicago,28/03/2024,Tablet,Credit Card,Budget
+CUST00391,69,Female,57412,99,Sports,Houston,28/03/2024,Tablet,PayPal,Budget
+CUST00138,52,Female,146879,21,Groceries,Miami,28/03/2024,Desktop,Gift Card,Budget
+CUST00583,40,Female,81212,75,Home Decor,New York,28/03/2024,Mobile,Credit Card,Standard
+CUST00361,51,Female,56877,50,Home Decor,Los Angeles,31/03/2024,Tablet,PayPal,Budget
+CUST00346,50,Male,46630,75,Groceries,New York,31/03/2024,Desktop,PayPal,Budget
+CUST00073,21,Male,54832,25,Fashion,Seattle,31/03/2024,Desktop,PayPal,Budget
+CUST00632,65,Male,116999,70,Fashion,Los Angeles,01/04/2024,Mobile,Debit Card,Standard
+CUST00589,27,Female,26570,21,Home Decor,Seattle,01/04/2024,Desktop,Credit Card,Budget
+CUST00484,45,Female,126625,75,Sports,Houston,01/04/2024,Tablet,Debit Card,Premium
+CUST00415,34,Female,120375,53,Electronics,New York,01/04/2024,Desktop,Gift Card,Standard
+CUST00514,31,Female,140585,35,Home Decor,Los Angeles,02/04/2024,Tablet,Credit Card,Budget
+CUST00050,42,Male,98249,30,Sports,Seattle,02/04/2024,Tablet,Credit Card,Budget
+CUST00640,58,Female,149824,57,Home Decor,New York,03/04/2024,Tablet,Debit Card,Standard
+CUST00394,40,Female,22920,98,Fashion,Seattle,05/04/2024,Mobile,Credit Card,Budget
+CUST00617,41,Male,135886,81,Books,Chicago,06/04/2024,Mobile,PayPal,Premium
+CUST00163,21,Female,98797,86,Groceries,Boston,07/04/2024,Mobile,PayPal,Standard
+CUST00638,53,Male,74061,2,Electronics,Miami,08/04/2024,Desktop,Credit Card,Budget
+CUST00560,52,Male,59030,16,Home Decor,Chicago,08/04/2024,Tablet,Debit Card,Budget
+CUST00146,22,Male,33025,4,Fashion,Seattle,09/04/2024,Desktop,Gift Card,Budget
+CUST00281,45,Male,59499,95,Sports,Chicago,09/04/2024,Desktop,Credit Card,Budget
+CUST00115,52,Male,40953,93,Books,New York,10/04/2024,Mobile,Gift Card,Budget
+CUST00558,29,Male,47420,10,Sports,Los Angeles,11/04/2024,Desktop,Credit Card,Budget
+CUST00612,53,Male,125823,50,Fashion,Miami,14/04/2024,Tablet,Credit Card,Standard
+CUST00435,25,Male,97539,74,Sports,Boston,16/04/2024,Tablet,PayPal,Standard
+CUST00158,49,Male,37482,62,Electronics,Chicago,16/04/2024,Desktop,Credit Card,Budget
+CUST00483,36,Male,121459,47,Groceries,Boston,18/04/2024,Mobile,Credit Card,Standard
+CUST00188,47,Male,32857,32,Fashion,Los Angeles,18/04/2024,Desktop,Credit Card,Budget
+CUST00013,41,Male,50561,16,Books,Houston,20/04/2024,Desktop,PayPal,Budget
+CUST00753,66,Male,53174,25,Books,Los Angeles,20/04/2024,Tablet,Debit Card,Budget
+CUST00648,69,Male,98916,76,Groceries,Miami,22/04/2024,Mobile,Gift Card,Standard
+CUST00061,25,Male,68845,15,Home Decor,Chicago,23/04/2024,Tablet,Credit Card,Budget
+CUST00531,50,Male,55946,35,Sports,Houston,23/04/2024,Mobile,Credit Card,Budget
+CUST00017,20,Female,148748,14,Electronics,Chicago,24/04/2024,Tablet,Debit Card,Budget
+CUST00234,49,Male,149478,79,Home Decor,Chicago,24/04/2024,Tablet,Gift Card,Premium
+CUST00278,57,Female,66167,96,Home Decor,Los Angeles,24/04/2024,Tablet,Debit Card,Standard
+CUST00422,46,Male,59443,83,Groceries,Houston,24/04/2024,Tablet,Gift Card,Budget
+CUST00590,43,Female,88785,42,Fashion,Miami,25/04/2024,Tablet,Gift Card,Standard
+CUST00898,47,Female,146609,9,Books,Seattle,25/04/2024,Desktop,Debit Card,Budget
+CUST00697,62,Male,146969,11,Home Decor,Houston,28/04/2024,Desktop,PayPal,Budget
+CUST00966,47,Male,73363,20,Home Decor,Los Angeles,28/04/2024,Mobile,Credit Card,Budget
+CUST00967,60,Female,117543,29,Electronics,Boston,29/04/2024,Tablet,Debit Card,Budget
+CUST00303,58,Female,103869,53,Books,Chicago,30/04/2024,Mobile,Debit Card,Standard
+CUST00364,50,Male,100885,23,Fashion,Los Angeles,30/04/2024,Mobile,Debit Card,Budget
+CUST00532,47,Female,75204,1,Fashion,New York,30/04/2024,Tablet,PayPal,Budget
+CUST00683,30,Male,133942,44,Groceries,Miami,01/05/2024,Desktop,Debit Card,Standard
+CUST00503,22,Male,141750,61,Groceries,Seattle,02/05/2024,Desktop,Gift Card,Standard
+CUST00119,59,Female,87889,23,Sports,Chicago,03/05/2024,Tablet,PayPal,Budget
+CUST00397,35,Male,80315,21,Electronics,Los Angeles,03/05/2024,Tablet,Debit Card,Budget
+CUST00541,27,Male,99671,57,Books,Los Angeles,04/05/2024,Mobile,Gift Card,Standard
+CUST00788,45,Male,84157,62,Groceries,Los Angeles,04/05/2024,Tablet,Gift Card,Standard
+CUST00810,64,Female,94172,35,Groceries,Seattle,04/05/2024,Tablet,Credit Card,Budget
+CUST00711,56,Female,99973,48,Fashion,Chicago,05/05/2024,Mobile,Gift Card,Standard
+CUST00928,21,Male,74624,50,Sports,New York,06/05/2024,Desktop,Debit Card,Standard
+CUST00406,49,Male,118656,86,Sports,Chicago,06/05/2024,Tablet,Debit Card,Premium
+CUST00864,29,Male,127958,30,Home Decor,Miami,07/05/2024,Tablet,PayPal,Budget
+CUST00517,64,Male,39816,69,Home Decor,Miami,08/05/2024,Desktop,Gift Card,Budget
+CUST00446,49,Male,62229,93,Sports,Chicago,08/05/2024,Tablet,PayPal,Standard
+CUST00111,28,Male,93609,60,Fashion,New York,08/05/2024,Mobile,PayPal,Standard
+CUST00016,41,Female,112108,98,Home Decor,Houston,09/05/2024,Tablet,PayPal,Premium
+CUST00114,25,Female,142901,32,Fashion,Houston,09/05/2024,Mobile,Debit Card,Budget
+CUST00894,55,Male,37727,36,Books,Houston,09/05/2024,Mobile,Credit Card,Budget
+CUST00294,66,Male,42431,89,Electronics,Chicago,10/05/2024,Tablet,Credit Card,Budget
+CUST00452,39,Female,146503,55,Books,New York,11/05/2024,Tablet,Credit Card,Standard
+CUST00264,53,Female,82046,15,Groceries,New York,13/05/2024,Tablet,Debit Card,Budget
+CUST00866,61,Female,147556,84,Electronics,Chicago,13/05/2024,Tablet,PayPal,Premium
+CUST00493,64,Male,84674,91,Groceries,Boston,14/05/2024,Tablet,Debit Card,Standard
+CUST00410,19,Female,92541,12,Fashion,New York,15/05/2024,Tablet,Debit Card,Budget
+CUST00717,20,Male,80233,12,Groceries,Miami,15/05/2024,Mobile,PayPal,Budget
+CUST00335,50,Female,110827,12,Electronics,Boston,16/05/2024,Desktop,Gift Card,Budget
+CUST00363,47,Male,35313,79,Electronics,Chicago,16/05/2024,Mobile,Credit Card,Budget
+CUST00627,58,Female,48625,86,Groceries,New York,16/05/2024,Mobile,Debit Card,Budget
+CUST00979,39,Male,20207,86,Fashion,Seattle,16/05/2024,Tablet,Credit Card,Budget
+CUST00378,46,Female,103847,29,Fashion,Los Angeles,17/05/2024,Tablet,PayPal,Budget
+CUST00390,50,Male,20661,4,Books,Seattle,17/05/2024,Mobile,Debit Card,Budget
+CUST00713,27,Female,129834,42,Electronics,Boston,17/05/2024,Mobile,Debit Card,Standard
+CUST00962,43,Male,138562,22,Groceries,Los Angeles,19/05/2024,Tablet,Gift Card,Budget
+CUST00145,18,Male,46029,97,Fashion,Seattle,21/05/2024,Mobile,Gift Card,Budget
+CUST00907,27,Male,82438,59,Electronics,Houston,23/05/2024,Desktop,Debit Card,Standard
+CUST00459,54,Female,46723,31,Fashion,New York,25/05/2024,Desktop,Credit Card,Budget
+CUST00389,52,Male,36082,65,Fashion,Los Angeles,27/05/2024,Mobile,Credit Card,Budget
+CUST00354,55,Male,94137,82,Home Decor,Chicago,27/05/2024,Mobile,PayPal,Standard
+CUST00587,46,Male,76503,48,Books,Chicago,27/05/2024,Desktop,Gift Card,Standard
+CUST00408,39,Female,50027,58,Home Decor,Boston,28/05/2024,Mobile,Debit Card,Budget
+CUST00475,69,Female,70677,45,Home Decor,Seattle,28/05/2024,Desktop,PayPal,Standard
+CUST00714,43,Female,125314,60,Electronics,Chicago,29/05/2024,Mobile,Gift Card,Standard
+CUST00357,68,Male,76446,85,Sports,Chicago,29/05/2024,Desktop,Gift Card,Standard
+CUST00399,59,Female,28946,91,Sports,Seattle,31/05/2024,Tablet,Gift Card,Budget
+CUST00014,53,Female,91719,76,Groceries,Chicago,02/06/2024,Mobile,Credit Card,Standard
+CUST00773,53,Female,26012,66,Fashion,Los Angeles,03/06/2024,Tablet,Gift Card,Budget
+CUST00631,37,Male,85838,70,Fashion,New York,04/06/2024,Tablet,Gift Card,Standard
+CUST00695,25,Male,109152,69,Fashion,Los Angeles,04/06/2024,Tablet,PayPal,Standard
+CUST00929,57,Male,30106,85,Home Decor,New York,04/06/2024,Desktop,Credit Card,Budget
+CUST00404,41,Male,75230,9,Groceries,Los Angeles,08/06/2024,Desktop,Debit Card,Budget
+CUST00597,62,Male,124061,82,Home Decor,Houston,08/06/2024,Desktop,Debit Card,Premium
+CUST00025,38,Male,132992,73,Electronics,Houston,09/06/2024,Tablet,Gift Card,Premium
+CUST00205,54,Male,119911,52,Sports,Seattle,09/06/2024,Tablet,PayPal,Standard
+CUST00074,46,Male,147335,66,Groceries,Los Angeles,09/06/2024,Tablet,Credit Card,Standard
+CUST00738,49,Male,47598,11,Home Decor,Chicago,10/06/2024,Desktop,Credit Card,Budget
+CUST00732,42,Female,24760,94,Sports,Seattle,11/06/2024,Tablet,Debit Card,Budget
+CUST00552,66,Female,101537,92,Fashion,Los Angeles,11/06/2024,Tablet,Gift Card,Premium
+CUST00693,55,Male,71924,43,Books,Houston,13/06/2024,Desktop,PayPal,Standard
+CUST00403,63,Male,36309,13,Groceries,Miami,15/06/2024,Desktop,Gift Card,Budget
+CUST00012,28,Male,31303,33,Books,Miami,15/06/2024,Mobile,Debit Card,Budget
+CUST00458,60,Female,39975,19,Fashion,Boston,15/06/2024,Tablet,PayPal,Budget
+CUST00826,65,Female,108204,87,Books,Houston,16/06/2024,Tablet,Credit Card,Premium
+CUST00896,41,Male,24358,81,Sports,Boston,16/06/2024,Desktop,Debit Card,Budget
+CUST00224,66,Male,25655,60,Books,New York,16/06/2024,Desktop,Debit Card,Budget
+CUST00925,28,Male,34210,35,Books,Houston,17/06/2024,Mobile,Debit Card,Budget
+CUST00837,54,Male,101929,99,Electronics,Miami,20/06/2024,Tablet,Credit Card,Premium
+CUST00489,26,Female,81272,70,Home Decor,Boston,21/06/2024,Desktop,Gift Card,Standard
+CUST00557,41,Female,20281,14,Sports,Miami,21/06/2024,Mobile,Debit Card,Budget
+CUST00353,47,Female,101941,13,Electronics,Boston,22/06/2024,Mobile,PayPal,Budget
+CUST00226,66,Female,73625,28,Home Decor,Houston,23/06/2024,Desktop,Gift Card,Budget
+CUST00951,58,Female,120732,40,Groceries,Boston,23/06/2024,Tablet,Debit Card,Budget
+CUST00356,62,Male,118818,29,Home Decor,Chicago,23/06/2024,Desktop,Gift Card,Budget
+CUST00784,26,Male,148647,90,Books,Boston,23/06/2024,Mobile,Debit Card,Premium
+CUST00593,58,Female,99141,57,Electronics,New York,24/06/2024,Desktop,Credit Card,Standard
+CUST00960,44,Male,145541,52,Fashion,Chicago,25/06/2024,Tablet,Gift Card,Standard
+CUST00162,49,Female,132302,92,Sports,Los Angeles,25/06/2024,Mobile,Credit Card,Premium
+CUST00917,60,Female,111302,41,Electronics,Seattle,26/06/2024,Desktop,Credit Card,Standard
+CUST00288,52,Male,115317,67,Home Decor,Boston,27/06/2024,Tablet,Credit Card,Standard
+CUST00150,44,Male,109186,52,Electronics,Los Angeles,27/06/2024,Tablet,Gift Card,Standard
+CUST00300,54,Female,47424,91,Sports,Los Angeles,29/06/2024,Tablet,Credit Card,Budget
+CUST00032,44,Female,71756,26,Groceries,Houston,29/06/2024,Mobile,Gift Card,Budget
+CUST00613,35,Male,33669,68,Sports,Boston,30/06/2024,Mobile,Credit Card,Budget
+CUST00106,41,Male,132831,31,Books,Chicago,30/06/2024,Tablet,PayPal,Budget
+CUST00944,45,Female,145703,88,Electronics,Chicago,30/06/2024,Mobile,Debit Card,Premium
+CUST00376,45,Female,72579,19,Sports,Houston,01/07/2024,Desktop,Debit Card,Budget
+CUST00582,52,Male,109393,32,Sports,New York,04/07/2024,Mobile,Debit Card,Budget
+CUST00887,35,Female,47213,73,Sports,Miami,04/07/2024,Mobile,PayPal,Budget
+CUST00588,43,Male,26638,71,Sports,Seattle,04/07/2024,Desktop,Gift Card,Budget
+CUST00275,57,Female,69930,64,Fashion,Chicago,06/07/2024,Desktop,Debit Card,Standard
+CUST00831,48,Male,108789,25,Fashion,Houston,07/07/2024,Tablet,PayPal,Budget
+CUST00954,63,Male,94069,76,Electronics,Los Angeles,08/07/2024,Desktop,Debit Card,Standard
+CUST00796,68,Male,106365,47,Books,Boston,10/07/2024,Desktop,Credit Card,Standard
+CUST00852,66,Male,125111,91,Home Decor,Chicago,12/07/2024,Tablet,Debit Card,Premium
+CUST00239,61,Male,54531,45,Groceries,Seattle,12/07/2024,Desktop,Debit Card,Budget
+CUST00058,64,Male,112241,52,Fashion,Miami,13/07/2024,Tablet,Debit Card,Standard
+CUST00544,18,Male,87278,24,Electronics,New York,15/07/2024,Tablet,Gift Card,Budget
+CUST00811,66,Male,26441,33,Fashion,Seattle,17/07/2024,Desktop,Debit Card,Budget
+CUST00574,46,Male,137428,68,Electronics,Miami,17/07/2024,Tablet,Debit Card,Standard
+CUST00005,60,Male,132863,21,Electronics,Boston,19/07/2024,Tablet,Gift Card,Budget
+CUST00312,41,Female,118393,15,Books,Miami,19/07/2024,Tablet,Credit Card,Budget
+CUST00180,59,Male,73331,65,Groceries,Miami,21/07/2024,Mobile,PayPal,Standard
+CUST00836,54,Male,148782,21,Groceries,Houston,21/07/2024,Mobile,Debit Card,Budget
+CUST00827,23,Female,100758,63,Fashion,Houston,21/07/2024,Tablet,Gift Card,Standard
+CUST00325,42,Female,124386,85,Sports,New York,23/07/2024,Mobile,Debit Card,Premium
+CUST00029,61,Male,103624,52,Home Decor,Miami,23/07/2024,Mobile,Gift Card,Standard
+CUST00019,19,Male,144165,97,Fashion,Los Angeles,24/07/2024,Tablet,Gift Card,Premium
+CUST00624,40,Male,108009,43,Sports,Houston,25/07/2024,Desktop,PayPal,Standard
+CUST00801,27,Female,68713,23,Groceries,Chicago,25/07/2024,Mobile,Credit Card,Budget
+CUST00098,58,Female,102197,68,Fashion,Seattle,26/07/2024,Mobile,Credit Card,Standard
+CUST00051,31,Male,125865,88,Books,Los Angeles,26/07/2024,Tablet,Credit Card,Premium
+CUST00120,56,Female,43821,83,Books,Los Angeles,28/07/2024,Desktop,PayPal,Budget
+CUST00825,38,Female,96666,72,Fashion,Houston,29/07/2024,Desktop,PayPal,Standard
+CUST00904,21,Male,146888,75,Electronics,Los Angeles,29/07/2024,Tablet,Gift Card,Premium
+CUST00518,66,Female,62240,93,Sports,Chicago,29/07/2024,Desktop,PayPal,Standard
+CUST00314,28,Female,95897,40,Fashion,Boston,31/07/2024,Tablet,Credit Card,Budget
+CUST00566,29,Female,125284,44,Sports,Los Angeles,01/08/2024,Mobile,PayPal,Standard
+CUST00036,32,Female,147331,6,Groceries,Seattle,01/08/2024,Mobile,Gift Card,Budget
+CUST00749,37,Male,98714,95,Sports,Los Angeles,02/08/2024,Desktop,PayPal,Standard
+CUST00199,20,Male,134187,68,Sports,Chicago,02/08/2024,Mobile,Credit Card,Standard
+CUST00499,62,Male,106475,9,Books,Seattle,03/08/2024,Tablet,Credit Card,Budget
+CUST00842,38,Male,51401,76,Fashion,Chicago,04/08/2024,Desktop,Credit Card,Budget
+CUST00547,21,Female,103194,85,Books,Miami,04/08/2024,Desktop,Credit Card,Premium
+CUST00939,68,Male,30756,9,Sports,Boston,05/08/2024,Mobile,PayPal,Budget
+CUST00479,59,Female,118317,97,Electronics,Chicago,05/08/2024,Mobile,Credit Card,Premium
+CUST00064,31,Female,111659,66,Books,Miami,06/08/2024,Tablet,Debit Card,Standard
+CUST00807,18,Male,38743,94,Books,Houston,06/08/2024,Desktop,PayPal,Budget
+CUST00785,50,Female,141999,21,Fashion,Los Angeles,07/08/2024,Mobile,Credit Card,Budget
+CUST00692,54,Female,111736,50,Sports,Chicago,08/08/2024,Mobile,Credit Card,Standard
+CUST00901,34,Male,52117,52,Electronics,Houston,08/08/2024,Mobile,Gift Card,Budget
+CUST00196,69,Female,104976,52,Fashion,Miami,11/08/2024,Tablet,Gift Card,Standard
+CUST00953,43,Female,125730,54,Electronics,Boston,12/08/2024,Desktop,Gift Card,Standard
+CUST00203,44,Female,38639,99,Electronics,Houston,13/08/2024,Desktop,PayPal,Budget
+CUST00095,43,Male,111357,68,Groceries,Boston,13/08/2024,Desktop,Credit Card,Standard
+CUST00141,54,Male,49241,62,Sports,Boston,14/08/2024,Tablet,PayPal,Budget
+CUST00534,40,Male,91652,57,Books,Houston,15/08/2024,Mobile,PayPal,Standard
+CUST00110,41,Female,83888,93,Electronics,Miami,15/08/2024,Mobile,Debit Card,Standard
+CUST00072,59,Male,148232,10,Fashion,Seattle,16/08/2024,Mobile,Credit Card,Budget
+CUST00902,22,Female,108700,89,Home Decor,Boston,16/08/2024,Desktop,Credit Card,Premium
+CUST00533,54,Male,71886,24,Fashion,Seattle,17/08/2024,Desktop,PayPal,Budget
+CUST00167,56,Female,42042,5,Fashion,Seattle,17/08/2024,Mobile,Credit Card,Budget
+CUST00779,54,Female,56378,86,Sports,Miami,19/08/2024,Desktop,PayPal,Budget
+CUST00996,60,Female,92982,6,Electronics,Seattle,19/08/2024,Tablet,Credit Card,Budget
+CUST00957,31,Male,145654,15,Electronics,Houston,20/08/2024,Mobile,PayPal,Budget
+CUST00975,52,Male,30526,22,Books,Miami,21/08/2024,Tablet,Debit Card,Budget
+CUST00903,46,Male,51910,14,Sports,Miami,21/08/2024,Tablet,Debit Card,Budget
+CUST00725,58,Female,55631,33,Books,Miami,21/08/2024,Mobile,Debit Card,Budget
+CUST00993,64,Female,119983,17,Groceries,Chicago,23/08/2024,Desktop,PayPal,Budget
+CUST00113,34,Male,137440,6,Electronics,Chicago,23/08/2024,Tablet,PayPal,Budget
+CUST00576,29,Female,21239,33,Books,Seattle,23/08/2024,Tablet,Gift Card,Budget
+CUST00128,50,Male,41427,11,Groceries,Houston,24/08/2024,Tablet,PayPal,Budget
+CUST00236,18,Female,48541,60,Books,Seattle,25/08/2024,Desktop,Debit Card,Budget
+CUST00849,30,Female,54084,82,Sports,Los Angeles,25/08/2024,Tablet,Debit Card,Budget
+CUST00380,23,Female,130198,39,Electronics,Chicago,27/08/2024,Desktop,PayPal,Budget
+CUST00102,18,Female,65539,32,Books,Boston,28/08/2024,Tablet,PayPal,Budget
+CUST00003,46,Male,145991,65,Electronics,Miami,30/08/2024,Desktop,Gift Card,Standard
+CUST00821,51,Female,91031,70,Sports,Miami,30/08/2024,Mobile,Credit Card,Standard
+CUST00522,22,Male,99530,49,Books,Houston,30/08/2024,Tablet,Gift Card,Standard
+CUST00501,33,Male,117955,16,Books,Miami,31/08/2024,Tablet,Debit Card,Budget
