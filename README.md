@@ -87,7 +87,7 @@ The notebook follows the **CRISP-DM** methodology across 18 sections:
 |-------|----------|----------|-------------|------------------|
 | **Gradient Boosting** | High | ≈ 0.000 | 99.8% | ✅ Primary — Production |
 | Random Forest | High | 0.1627 | ~99% | 🔄 Validation / Backup |
-| KNN (SMOTE pipeline) | ~78% | 0.7075 | ~78% | 📊 Baseline / Benchmark |
+| KNN (SMOTE pipeline) | ~78% | 0.4689 | ~78% | 📊 Baseline / Benchmark |
 
 > **Why Gradient Boosting?** Near-zero log loss means its probability estimates are reliable for routing borderline customers to human review — a key requirement for production deployment.
 
